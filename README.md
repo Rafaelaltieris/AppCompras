@@ -20,7 +20,7 @@ O projeto segue a arquitetura MVVM (Model-View-ViewModel) para separar a lógica
 
 ## Requisitos
 
-- [.NET 8.0 ou superior]([https://dotnet.microsoft.com/download/dotnet/7.0](https://dotnet.microsoft.com/pt-br/download/dotnet/8.0))
+- [.NET 8.0 ou superior](https://dotnet.microsoft.com/download/dotnet/8.0)
 - [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) com a carga de trabalho "Desenvolvimento de aplicativos móveis com .NET"
 
 ## Instalação
